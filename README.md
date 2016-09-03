@@ -1,2 +1,5 @@
 # hello-world
-just a random repository
+
+I am the storm. 
+I need some coding to start shuffling. 
+Let me begin 
